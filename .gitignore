@@ -1,4 +1,7 @@
 results/*
 
+.env.prod.db
+*.swn
+*.swm
 *.swo
 *.swp
